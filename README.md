@@ -23,6 +23,22 @@ Referensi resmi: <https://smsofdeath.com/>
 
 ---
 
+## ⬇️ Download
+
+<p align="center">
+  <a href="https://github.com/YD1RUH/SMSofDEATH_Mitigation/releases/download/Beta-V1.0.0/SoD_Mitigation.zip">
+    <img src="https://img.shields.io/badge/Download-SoD__Mitigation.zip-brightgreen?style=for-the-badge&logo=github" alt="Download SoD_Mitigation.zip">
+  </a>
+</p>
+
+- Versi: **Beta V1.0.0**
+- Langsung unduh: [SoD_Mitigation.zip](https://github.com/YD1RUH/SMSofDEATH_Mitigation/releases/download/Beta-V1.0.0/SoD_Mitigation.zip)
+- Semua rilis: [Releases](https://github.com/YD1RUH/SMSofDEATH_Mitigation/releases)
+
+Setelah diunduh, ekstrak file ZIP lalu jalankan `SMSofDeathMitigation.exe`.
+
+---
+
 ## 📖 Apa itu SMS of Death? (Penjelasan untuk Orang Awam)
 
 **SMS of Death** adalah celah keamanan pada sistem Android. Seseorang dapat mengirim **satu pesan khusus yang sudah dirusak sengaja** ke nomor HP Anda, dan itu bisa membuat bagian telepon di HP Anda **mati mendadak**.
