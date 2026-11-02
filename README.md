@@ -39,7 +39,7 @@ Setelah diunduh, ekstrak file ZIP lalu jalankan `SMSofDeathMitigation.exe`.
 
 ---
 
-## 📖 Apa itu SMS of Death? (Penjelasan untuk Orang Awam)
+## 📖 Apa itu SMS of Death?
 
 **SMS of Death** adalah celah keamanan pada sistem Android. Seseorang dapat mengirim **satu pesan khusus yang sudah dirusak sengaja** ke nomor HP Anda, dan itu bisa membuat bagian telepon di HP Anda **mati mendadak**.
 
