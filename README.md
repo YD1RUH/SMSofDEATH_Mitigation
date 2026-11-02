@@ -1,5 +1,13 @@
 # 🛡️ SMSofDeath Mitigation Tool
 
+<table align="center">
+  <tr>
+    <td width="33%"><img src="https://raw.githubusercontent.com/YD1RUH/SMSofDEATH_Mitigation/main/image/1.jpeg" width="100%" alt="Screenshot 1"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/YD1RUH/SMSofDEATH_Mitigation/main/image/2.jpeg" width="100%" alt="Screenshot 2"></td>
+    <td width="33%"><img src="https://raw.githubusercontent.com/YD1RUH/SMSofDEATH_Mitigation/main/image/3.jpeg" width="100%" alt="Screenshot 3"></td>
+  </tr>
+</table>
+
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?logo=windows&logoColor=white)
 ![Language](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus&logoColor=white)
 ![GUI](https://img.shields.io/badge/GUI-Dear%20ImGui-18BFFF)
@@ -72,19 +80,19 @@ Tool ini membantu Anda menutup celah tersebut **tanpa menunggu update dari pabri
 
 ## 🚀 Persiapan Sebelum Digunakan
 
-### Aktifkan USB Debugging di HP
+### 1. Aktifkan USB Debugging di HP
 
 1. Buka **Pengaturan → Tentang Ponsel**.
 2. Ketuk **Nomor Build** sebanyak 7 kali sampai muncul pesan "Anda sekarang adalah developer".
 3. Kembali ke **Pengaturan → Opsi Developer** (lokasi bisa berbeda tiap merek).
 4. Aktifkan **USB Debugging**.
 
-### Hubungkan HP ke PC
+### 2. Hubungkan HP ke PC
 
 1. Sambungkan HP dengan kabel USB. Gunakan kabel yang mendukung transfer data, bukan kabel khusus pengisi daya.
 2. Jika muncul dialog **"Allow USB debugging?"** di HP, centang *Always allow from this computer*, lalu ketuk **Allow**.
 
-### Jalankan Aplikasi
+### 3. Jalankan Aplikasi
 
 Jalankan `SMSofDeathMitigation.exe`. Tidak perlu hak Administrator.
 
